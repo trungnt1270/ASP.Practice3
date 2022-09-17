@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WAD_TrungNT", "WAD_TrungNT\WAD_TrungNT.csproj", "{EDF75C6C-45A5-4107-A17A-411123242DAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF75C6C-45A5-4107-A17A-411123242DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF75C6C-45A5-4107-A17A-411123242DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF75C6C-45A5-4107-A17A-411123242DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF75C6C-45A5-4107-A17A-411123242DAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {348962FF-9ACE-43AA-A06B-7C7081BA022A}
+	EndGlobalSection
+EndGlobal
